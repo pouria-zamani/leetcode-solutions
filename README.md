@@ -8,10 +8,10 @@ To improve my skills in Data Structures, Algorithms, and Problem Solving by solv
 
 ## ✅ Completed Problems
 
-| #   | Title                                                             | Category     | Difficulty | Status  | Solution File                         |
-|-----|-------------------------------------------------------------------|--------------|------------|---------|---------------------------------------|
-| 001 | [Two Sum](https://leetcode.com/problems/two-sum/)                 | Array        | Easy       | ✅ Done | `array/P001TwoSum.java`               |
-| 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List  | Medium     | ✅ Done | `linkedlist/P002AddTwoNumbers.java`   |
+| #   | Title                                                             | Category     | Difficulty     | Status  | Solution File                                                           |
+|-----|-------------------------------------------------------------------|--------------|----------------|---------|-------------------------------------------------------------------------|
+| 001 | [Two Sum](https://leetcode.com/problems/two-sum/)                 | Array        |  🟢 Easy       | ✅ Done | `src/main/java/com/pouria/leetcode/array/P001TwoSum.java`               |
+| 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List  |  🟠 Medium     | ✅ Done | `src/main/java/com/pouria/leetcode/linkedlist/P002AddTwoNumbers.java`   |
 
 
 > ✅ This table will grow as I solve more problems.
