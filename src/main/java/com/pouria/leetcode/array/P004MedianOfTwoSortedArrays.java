@@ -1,6 +1,6 @@
 package main.java.com.pouria.leetcode.array;
 
-public class P004MedianOfTwoSortedArray {
+public class P004MedianOfTwoSortedArrays {
     public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int m = nums1.length, n = nums2.length;
         int totalLength = m + n;
