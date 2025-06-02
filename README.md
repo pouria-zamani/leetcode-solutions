@@ -14,6 +14,7 @@ To improve my skills in Data Structures, Algorithms, and Problem Solving by solv
 | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List  |  🟠 Medium     | ✅ Done | [Add Two Numbers](src/main/java/com/pouria/leetcode/linkedlist/P002AddTwoNumbers.java)   |
 | 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | String       |  🟠 Medium     | ✅ Done | [Longest Substring Without Repeating Characters](src/main/java/com/pouria/leetcode/string/P003LongestSubstringWithoutRepeatingCharacters.java) |
 | 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Array        |  🔴 Hard       | ✅ Done | [Median of Two Sorted Arrays](src/main/java/com/pouria/leetcode/array/P004MedianOfTwoSortedArrays.java) |
+| 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | String        |  🟠 Medium       | ✅ Done | [Longest Palindromic Substring](src/main/java/com/pouria/leetcode/string/P005LongestPalindromicSubstring.java) |
 
 
 
